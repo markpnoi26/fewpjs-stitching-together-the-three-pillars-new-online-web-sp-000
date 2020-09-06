@@ -1,4 +1,4 @@
-# Stitching Together the Three Pillars
+lea# Stitching Together the Three Pillars
 
 ## Learning Goals
 
